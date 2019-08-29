@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HotDemo</string>
+    <string name="ui">子线程更新UI</string>
+    <string name="hot">热修复</string>
+</resources>
